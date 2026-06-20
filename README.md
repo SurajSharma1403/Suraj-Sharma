@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋<br><br>I'm a passionate Full Stack Developer and MERN Stack learner, currently pursuing a Bachelor of Computer Applications (BCA).<br><br>🚀 Learning and building with the MERN Stack (MongoDB, Express.js, React, Node.js)<br><br>💻 Interested in Web Development, Open Source, and Modern JavaScript Technologies<br><br>🌱 Continuously improving my coding and problem-solving skills<br><br>🔧 Exploring Full Stack Development and creating real-world projects<br><br>⚡ Tech Enthusiast who loves learning new technologies and staying updated with industry trends<br><br>📫 Always open to collaboration and exciting development opportunities<br>
+ Hi there 👋<br><br>I'm a passionate Full Stack Developer and MERN Stack learner, currently pursuing a Bachelor of Computer Applications (BCA).<br>🚀 Learning and building with the MERN Stack (MongoDB, Express.js, React, Node.js)<br>💻 Interested in Web Development, Open Source, and Modern JavaScript Technologies<br>🌱 Continuously improving my coding and problem-solving skills<br>🔧 Exploring Full Stack Development and creating real-world projects<br>⚡ Tech Enthusiast who loves learning new technologies and staying updated with industry trends<br>📫 Always open to collaboration and exciting development opportunities<br>
 
 
 ## 🌐 Socials:
